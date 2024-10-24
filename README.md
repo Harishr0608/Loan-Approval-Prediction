@@ -1,5 +1,5 @@
 
-# Loan Approval Predictions - Kaggle Competition(Oct 2024)
+# Loan Approval Prediction - Kaggle Competition(Oct 2024)
 
 
 
