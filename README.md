@@ -1,7 +1,7 @@
 
 # Loan Approval Prediction - Kaggle Competition(Oct 2024)
 
-
+**Link: https://www.kaggle.com/c/playground-series-s4e10**
 
 
 
